@@ -55,7 +55,7 @@ a{
 #audibox{
     display: inline;
     float: right;
-    width: 700px;
+    width: 500px;
     padding: 20px;
     padding-top: 100px;
 }
@@ -76,7 +76,7 @@ a{
 #xpulsebox{
     display: inline;
     float: right;
-    width: 600px;
+    width: 500px;
     padding: 20px;
     padding-top: 100px;
 }
@@ -112,7 +112,7 @@ a{
         width: 1190px;
     }
     #bmwimg{
-        background: linear-gradient(rgb(255,255,255,0.4),rgb(255,255,255,0.4)),url('bmw.jpg');
+        background: linear-gradient(rgb(255,255,255,0.4),rgb(255,255,255,0.4)),url('b.jpg');
         background-size: cover;
         height: 680px;
         width: 1190px;
