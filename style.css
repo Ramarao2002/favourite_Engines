@@ -1,0 +1,101 @@
+#homepage{
+    background: linear-gradient(rgb(255,255,255,0.4),rgb(255,255,255,0.4)),url('backgroud.jpg');
+    background-size: cover;
+    height: 680px;
+}
+
+
+#homepageheader{
+    color: black;
+    display: inline-block;
+    text-transform: capitalize;
+    padding-left: 20px;
+    padding-top: 70px;
+    text-align: center;
+
+}
+
+#listimg{
+    width: 20px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+#bmwimg{
+    background: linear-gradient(rgb(255,255,255,0.4),rgb(255,255,255,0.4)),url('bmw.jpg');
+    background-size: cover;
+    height: 700px;
+}
+
+#bmwheader{
+    text-decoration: wavy underline;
+    display: inline-block;
+    text-align: center;
+}
+
+#bmwbox{
+    display: inline-block;
+    width: 455px;
+    padding: 20px;
+    padding-top: 50px;
+}
+
+#audiimg{
+    background: linear-gradient(rgb(255,255,255,0.4),rgb(255,255,255,0.4)),url('audi.jpg');
+    background-size: cover;
+    height: 685px;
+}
+
+#audibox{
+    display: inline;
+    float: right;
+    width: 700px;
+    padding: 20px;
+    padding-top: 100px;
+}
+
+#audiheader{
+    text-decoration: wavy underline;
+    display: inline-block;
+    text-align: center;
+}
+
+#xpulseimg{
+    background: linear-gradient(rgb(255,255,255,0.4),rgb(255,255,255,0.4)),url('xpulse.jpg');
+    background-size: cover;
+    height: 800px;
+}
+
+
+#xpulsebox{
+    display: inline;
+    float: right;
+    width: 600px;
+    padding: 20px;
+    padding-top: 100px;
+}
+
+#xpulseheader{
+    text-decoration: wavy underline;
+    display: inline-block;
+    text-align: center;
+}
+
+
+#img4{
+    background: linear-gradient(rgb(255,255,255,0.4),rgb(255,255,255,0.4)),url('background.jpg');
+    background-size: cover;
+    height: 685px;
+}
+
+
+
+
+
+
