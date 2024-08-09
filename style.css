@@ -96,6 +96,42 @@ a{
 
 
 
+@media only screen and ( max-width: 600px){
+    body{
+        font-size: 18px;
+        width: auto;
+        height: auto;
+    }
+    img{
+        width: 5o%;
+    }
+    #homepage{
+        background: linear-gradient(rgb(255,255,255,0.4),rgb(255,255,255,0.4)),url('backgroud.jpg');
+        background-size: cover;
+        height: 680px;
+        width: 1190px;
+    }
+    #bmwimg{
+        background: linear-gradient(rgb(255,255,255,0.4),rgb(255,255,255,0.4)),url('bmw.jpg');
+        background-size: cover;
+        height: 680px;
+        width: 1190px;
+    }
+
+    #audiimg{
+        background: linear-gradient(rgb(255,255,255,0.4),rgb(255,255,255,0.4)),url('audi.jpg');
+        background-size: cover;
+        height: 680px;
+        width: 1190px;
+    }
+
+    #xpulseimg{
+        background: linear-gradient(rgb(255,255,255,0.4),rgb(255,255,255,0.4)),url('xpulse.jpg');
+        background-size: cover;
+        height: 680px;
+        width: 1190px;
+    }
+}
 
 
 
